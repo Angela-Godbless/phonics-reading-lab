@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-10-25T03:45:19+00:00",
+  "words": [
+    {
+      "word": "ant",
+      "ipa": "/ænt/",
+      "meaning": "螞蟻",
+      "grade": "國一",
+      "unit": "基礎拼讀",
+      "parts": "a:ae|n:n|t:t"
+    },
+    {
+      "word": "cat",
+      "ipa": "/kæt/",
+      "meaning": "貓",
+      "grade": "國一",
+      "unit": "基礎拼讀",
+      "parts": "c:k|a:ae|t:t"
+    },
+    {
+      "word": "sun",
+      "ipa": "/sʌn/",
+      "meaning": "太陽",
+      "grade": "國一",
+      "unit": "基礎拼讀",
+      "parts": "s:s|u:uh|n:n"
+    },
+    {
+      "word": "pen",
+      "ipa": "/pɛn/",
+      "meaning": "原子筆",
+      "grade": "國一",
+      "unit": "基礎拼讀",
+      "parts": "p:p|e:eh|n:n"
+    },
+    {
+      "word": "fish",
+      "ipa": "/fɪʃ/",
+      "meaning": "魚",
+      "grade": "國一",
+      "unit": "基礎拼讀",
+      "parts": "f:f|i:ih|sh:sh"
+    },
+    {
+      "word": "ship",
+      "ipa": "/ʃɪp/",
+      "meaning": "船",
+      "grade": "國一",
+      "unit": "基礎拼讀",
+      "parts": "sh:sh|i:ih|p:p"
+    },
+    {
+      "word": "chin",
+      "ipa": "/tʃɪn/",
+      "meaning": "下巴",
+      "grade": "國一",
+      "unit": "基礎拼讀",
+      "parts": "ch:ch|i:ih|n:n"
+    },
+    {
+      "word": "rain",
+      "ipa": "/reɪn/",
+      "meaning": "雨",
+      "grade": "國一",
+      "unit": "進階拼讀",
+      "parts": "r:r|ai:ay|n:n"
+    },
+    {
+      "word": "cake",
+      "ipa": "/keɪk/",
+      "meaning": "蛋糕",
+      "grade": "國一",
+      "unit": "進階拼讀",
+      "parts": "c:k|a:ay|k:k|e:silent"
+    },
+    {
+      "word": "book",
+      "ipa": "/bʊk/",
+      "meaning": "書",
+      "grade": "國一",
+      "unit": "進階拼讀",
+      "parts": "b:b|oo:shortoo|k:k"
+    },
+    {
+      "word": "moon",
+      "ipa": "/muːn/",
+      "meaning": "月亮",
+      "grade": "國一",
+      "unit": "進階拼讀",
+      "parts": "m:m|oo:oo|n:n"
+    },
+    {
+      "word": "see",
+      "ipa": "/siː/",
+      "meaning": "看見",
+      "grade": "國一",
+      "unit": "進階拼讀",
+      "parts": "s:s|ee:ee"
+    },
+    {
+      "word": "tree",
+      "ipa": "/triː/",
+      "meaning": "樹",
+      "grade": "國一",
+      "unit": "進階拼讀",
+      "parts": "t:t|r:r|ee:ee"
+    },
+    {
+      "word": "can",
+      "ipa": "/kæn/",
+      "meaning": "能；可以",
+      "grade": "國一",
+      "unit": "Unit 3",
+      "parts": "c:k|a:ae|n:n"
+    },
+    {
+      "word": "magic",
+      "ipa": "/ˈmædʒɪk/",
+      "meaning": "神奇的；魔法",
+      "grade": "國一",
+      "unit": "Unit 3",
+      "parts": "m:m|a:ae|g:j|i:ih|c:k"
+    },
+    {
+      "word": "many",
+      "ipa": "/ˈmɛni/",
+      "meaning": "許多的",
+      "grade": "國一",
+      "unit": "Unit 3",
+      "parts": "m:m|a:eh|n:n|y:ee"
+    },
+    {
+      "word": "place",
+      "ipa": "/pleɪs/",
+      "meaning": "地方",
+      "grade": "國一",
+      "unit": "Unit 3",
+      "parts": "p:p|l:l|a:ay|c:s|e:silent"
+    },
+    {
+      "word": "sign",
+      "ipa": "/saɪn/",
+      "meaning": "標誌；告示牌",
+      "grade": "國一",
+      "unit": "Unit 3",
+      "parts": "s:s|i:eye|g:silent|n:n"
+    },
+    {
+      "word": "rule",
+      "ipa": "/ruːl/",
+      "meaning": "規則",
+      "grade": "國一",
+      "unit": "Unit 3",
+      "parts": "r:r|u:oo|l:l|e:silent"
+    },
+    {
+      "word": "turn",
+      "ipa": "/tɝːn/",
+      "meaning": "轉動；輪流",
+      "grade": "國一",
+      "unit": "Unit 3",
+      "parts": "t:t|ur:er|n:n"
+    },
+    {
+      "word": "fight",
+      "ipa": "/faɪt/",
+      "meaning": "打架",
+      "grade": "國一",
+      "unit": "Unit 3",
+      "parts": "f:f|igh:eye|t:t"
+    },
+    {
+      "word": "quiet",
+      "ipa": "/ˈkwaɪət/",
+      "meaning": "安靜的",
+      "grade": "國一",
+      "unit": "Unit 3",
+      "parts": "qu:kw|i:eye|e:schwa|t:t"
+    },
+    {
+      "word": "follow",
+      "ipa": "/ˈfɑːloʊ/",
+      "meaning": "遵守；跟隨",
+      "grade": "國一",
+      "unit": "Unit 3",
+      "parts": "f:f|o:ah|ll:l|ow:ow"
+    }
+  ]
+}
